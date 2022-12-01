@@ -1,4 +1,11 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestlee1106&show_icons=true&theme=yeblu)
 
 <!--
 **zestlee1106/zestlee1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
