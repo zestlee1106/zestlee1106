@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestlee1106&show_icons=true&theme=yeblu)
- 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestlee1106&show_icons=true&theme=yeblu)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zestlee1106&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/zestlee1106)
+
 <!--
 **zestlee1106/zestlee1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
