@@ -11,7 +11,10 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api?username=zestlee1106&langs_count=10&layout=compact&theme=dark&ver=2)](https://github.com/jogilsang/zestlee1106) -->
 
 
-[![Top Langs](https://github-readme-zestlee1106-stats.vercel.app/api/top-langs/?username=zestlee1106)](https://github.com/zestlee1106/github-readme-stats)
+<!--[![Top Langs](https://github-readme-zestlee1106-stats.vercel.app/api?username=zestlee1106&show_icons=true&theme=yeblu)](https://github.com/zestlee1106/github-readme-stats)-->
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zestlee1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zestlee1106/zestlee1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
